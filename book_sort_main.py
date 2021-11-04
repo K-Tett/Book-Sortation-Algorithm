@@ -11,6 +11,7 @@ Original file is located at
 TODO:
 - [ ] Import local files
 - [ ] Make GUI to import csv files
+- [ ] Add options to choose which sorting algorithm to go for
 - [ ] Add more sortation
 - [ ] Visualize the sortation
 """
